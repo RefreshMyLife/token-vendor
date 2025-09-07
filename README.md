@@ -48,5 +48,5 @@ yarn start
 
 ---
 
-📜 Sepolia link: https://sepolia.etherscan.io/address/0xC8A0bD87d8FaB529E3BBAA40CB5A50679a20C229
-🔗 Vercel link: https://decentralization-stack-o870xdfuf-refreshmylifes-projects.vercel.app/
+>📜 Sepolia link: https://sepolia.etherscan.io/address/0xC8A0bD87d8FaB529E3BBAA40CB5A50679a20C229
+>🔗 Vercel link: https://decentralization-stack-o870xdfuf-refreshmylifes-projects.vercel.app/
